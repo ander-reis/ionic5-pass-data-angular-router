@@ -1,5 +1,7 @@
 {
   "name": "ionic5-pass-data-angular-router",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
